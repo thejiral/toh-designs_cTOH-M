@@ -8,7 +8,7 @@ It is sufficient to just print the frame and the camera bump. Optionally one can
 
 
 
-<img src="cTOH-M yellow" alt="https://github.com/thejiral/toh-designs_cTOH-M/blob/thejiral-cTOH-M/cTOH-M/IMG/yellow.jpg">
+![cTOH-M yellow] (https://github.com/thejiral/toh-designs_cTOH-M/blob/thejiral-cTOH-M/cTOH-M/IMG/yellow.jpg)
 
 
 **Required additional parts**
