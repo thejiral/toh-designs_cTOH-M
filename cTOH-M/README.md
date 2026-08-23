@@ -22,7 +22,7 @@ CloudValley Mobile Phone Ring Holder for MagSafe (https://www.amazon.de/dp/B0FW4
 
 The phone can get quite warm, PLA is not advised, also because it gets brittle and is prone to creeping.  I recommend using ASA, it is more flexible than PLA but a bit less than PETG and is UV resistant. PETG is also an option but consider what you think feels nicer to the touch. 
 
-In both cases an enclosure is advised, but with ASA it is likely required, for PETG merely beneficial.  I found with ASA that printing at regular MK3 Quality speeds with 100% cooling I got the best results (with sufficient layer adhesion), in an enclosure that reached around 35-40°C. 
+In both cases an enclosure is advised, but with ASA it is likely required, for PETG merely beneficial.  I found with ASA that printing at regular Prusa MK3 Quality speeds with 100% cooling I got the best results (with sufficient layer adhesion), in an enclosure that reached around 35-40°C. 
 
 The model is quite sensitive towards differences in shrinking (due to material choice) and extrusion coefficient (over/underextrusion). Fine tuning of these two factors might be needed for the right clamping strength and dimensional accuracy of the frame. 
 
