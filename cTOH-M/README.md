@@ -6,6 +6,11 @@ The Jolla Phone (2026) (see here: https://commerce.jolla.com/products/jolla-phon
 
 It is sufficient to just print the frame and the camera bump. Optionally one can also print the clips (orientation as in the 3mf file, otherwise they will break and not work) but that requires fiddly assembly and possibly more fine tuning, depending on your extrusion calibration. 
 
+
+
+[img]https://github.com/thejiral/toh-designs_cTOH-M/blob/thejiral-cTOH-M/cTOH-M/IMG/yellow.jpg[/img]
+
+
 **Required additional parts**
 
 CloudValley Mobile Phone Ring Holder for MagSafe (https://www.amazon.de/dp/B0FW45FLLW), which includes also the metal ring for the back plate assembly. 
