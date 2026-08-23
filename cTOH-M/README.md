@@ -39,7 +39,7 @@ Optional clip insertion (clip 1: bottom left, pointing outward; clip 2: bottom r
 
 Remove the protective film from the metal ring and glue it with the stick side into the ring shaped cavety on the inside of the frame
 
-Put the camer bump cover onto the camera bump and clip the frame into place, fixing the camera bump cover into place (The bump cover can alternatively be glued in to the frame from the inside out before clipping it into place)
+Put the camera bump cover onto the camera module and clip the frame into place, fixing the camera bump cover into place (The bump cover can alternatively be glued in to the frame from the inside out before clipping it into place)
 
 
 PS: Feel free to use this model as a starting point for designing other TOHs
