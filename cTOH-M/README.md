@@ -11,6 +11,7 @@ It is sufficient to just print the frame and the camera bump. Optionally one can
 ![cTOH-M yellow](https://github.com/thejiral/toh-designs_cTOH-M/blob/thejiral-cTOH-M/cTOH-M/IMG/yellow.jpg)
 
 **Print files**
+
 *1-frame-final.step* is the main frame and 2-Bump-Final2_with_integrated_supports.step is the insert for the camera bump. You need to print both. 
 *1-frame-final.step* is designed to have some extra margins for sanding for a nice smooth surface. If you do not plan to do any surface sanding, there is the the alternative *Optional_Frame-Final1-no sanding.step* file of the frame without those extra margins. Fully optional are the internal clips (*Optional_Clips.3mf*), they make the assembly more robust but are not required for assembly. 
 
